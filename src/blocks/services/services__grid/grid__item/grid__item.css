@@ -1,0 +1,10 @@
+.grid__item {
+  list-style: none;
+  padding-bottom: 90px;
+  max-width: 316px;
+}
+@media only screen and (min-width: 800px) {
+  .grid__item {
+    padding-top: 40px;
+  }
+}
